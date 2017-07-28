@@ -1,0 +1,2 @@
+# Quadyster
+Python Skeleton Module
